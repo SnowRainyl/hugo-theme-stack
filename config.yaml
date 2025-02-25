@@ -1,7 +1,3 @@
-
-
-baseurl: "https://snowrainyl.github.io/"
-
 module:
     hugoVersion:
         extended: true
